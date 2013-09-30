@@ -30,6 +30,8 @@ private:
 
   int N;
   Node * first;
+  
+// public members	  
 public:
   
   /*
